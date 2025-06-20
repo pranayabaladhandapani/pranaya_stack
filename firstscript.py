@@ -1,5 +1,5 @@
 
-# Sample Python code to print even numbers from 1 to 10
+# Sample Python code to print even numbers from 1 to 10 sample
 
 def print_even_numbers():
     print("Even numbers from 1 to 10:")
